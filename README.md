@@ -1,4 +1,4 @@
-# telegram-bot
+# telegram-bot using Python
 
 Step 1: Install library
         - pip install aiogram
