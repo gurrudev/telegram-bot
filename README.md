@@ -6,5 +6,5 @@ Step 1: Install library
 Step 2: Search BotFather on Telegram
         - Create new bot
         - Copy token
-        - Paste on the place on "API_KEY"
+        - Paste at "API_KEY"
         - Run program 
