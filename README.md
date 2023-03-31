@@ -14,7 +14,7 @@ $ pip install aiogram
 ```python
 bot = aiogram.Bot(token='API_KEY')
 ```
-5 Run program 
+🚀Start 
 ```sh
 $ python telebot.py
 ```
