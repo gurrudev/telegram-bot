@@ -1,10 +1,20 @@
 # telegram-bot using Python
 
-Step 1: Install library
-        - pip install aiogram
+📦Install
+
+```sh
+$ pip install aiogram
+```
         
-Step 2: Search BotFather on Telegram
-        - Create new bot
-        - Copy token
-        - Paste at "API_KEY"
-        - Run program 
+💻Usage
+1) Search BotFather on Telegram
+2) Create new bot
+3) Copy token
+4) Paste at "API_KEY"
+```python
+bot = aiogram.Bot(token='API_KEY')
+```
+5 Run program 
+```sh
+$ python telebot.py
+```
